@@ -277,7 +277,8 @@ class Metodos {
 }
 Capturas del codigo: 
 ![image](https://github.com/user-attachments/assets/38398c58-fa4c-4fa3-8e2a-691f616008a5)
-![image](https://github.com/user-attachments/assets/8c8e340d-4689-4565-8db3-99d773bf833e)
+![image](https://github.com/user-attachments/assets/879c0a23-a82d-4446-bde4-d93a84ccfd5b)
+
 
 Conclision: Apesar de que no se nota una diferencia en la ejecuacion dentro del cidigo segmentado pudimos apreciar de que era mas intuitivo si es que alguen llegara a modificar el codigo para mejorarlo ya podria saber donde se encunetra cada funcion del codigo, al igual que para esta paersona seria mas facil agregar o quitar cosas depenediendo del lo que desee hacer 
 
